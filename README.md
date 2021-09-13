@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rhianneirish
 - 👀 I’m interested in arts
 - 🌱 I’m currently learning digital art
-- 📫 How to reach me faderan.136528120503@depedqc.ph 
+- 📫 How to reach me faderanrhianne@gmail.com 
 
 <!---
 Rhianneirish/Rhianneirish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
